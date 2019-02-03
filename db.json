@@ -1,5 +1,4 @@
-{
-  "songs": [
+[
     {
       "id": 1,
       "title": "Led Zeppellin - Ramble On"
@@ -41,4 +40,3 @@
     "title": "Grea van fleet - Change is gonna come(Cover)"
     }
   ]
-}

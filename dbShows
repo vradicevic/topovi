@@ -1,0 +1,45 @@
+{
+"movies":[
+{
+    "id":1,
+    "title": "Planet Earth 2"
+    },
+    {
+    "id":2,
+    "title": "Združena braća"
+    },
+    {
+    "id":3,
+    "title": "Igra prijestolja"
+    },
+    {
+    "id":4,
+    "title": "Planet Zemlja"
+    }
+   ,
+   {
+    "id":5,
+    "title": "Na putu prema dolje"
+    },
+    {
+    "id":6,
+    "title": "Žica"
+    },
+    {
+    "id":7,
+    "title": "Kozmos: Odiseja u prostoru i vremenu"
+    },
+    {
+    "id":8,
+    "title":"Blue Planet 2"
+    },
+    {
+    "id":9,
+    "title":"Rick i Morty"
+    },
+    {
+    "id":10,
+    "title":"Kozmos"
+    }
+]
+}

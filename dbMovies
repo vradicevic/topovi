@@ -1,0 +1,45 @@
+{
+"movies":[
+{
+    "id":1,
+    "title": "Iskupljenje u Shawshanku"
+    },
+    {
+    "id":2,
+    "title": "Kum"
+    },
+    {
+    "id":3,
+    "title": "Kum 2"
+    },
+    {
+    "id":4,
+    "title": "Vitez tame"
+    }
+   ,
+   {
+    "id":5,
+    "title": "12 ljutih muškaraca"
+    },
+    {
+    "id":6,
+    "title": "Schindlerova lista"
+    },
+    {
+    "id":7,
+    "title": "Gospodar prstenova: Povratak kralja"
+    },
+    {
+    "id":8,
+    "title":"Pakleni šund"
+    },
+    {
+    "id":9,
+    "title":"Dobar, loš, zao"
+    },
+    {
+    "id":10,
+    "title":"Klub boraca"
+    }
+]
+}

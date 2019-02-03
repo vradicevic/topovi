@@ -1,1 +1,44 @@
-
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Led Zeppellin - Ramble On"
+    }
+    {
+    "id":2,
+    "title": "Mia Dimšić - Nešto oko sivog dana ili života"
+    }
+    {
+    "id":3,
+    "title": "Azra - Kurvini sinovi"
+    }
+    {
+    "id":4,
+    "title": "Azra - Voljela me nije nijedna"
+    }
+    {
+    "id":5,
+    "title": "Azra - Čalgija"
+    }
+    {
+    "id":6,
+    "title": "Azra - Faith accompli"
+    }
+    {
+    "id":7,
+    "title": "Azra - Filigranski pločnici"
+    }
+    {
+    "id":8,
+    "title": "Plavi orkestar - Azra"
+    }
+    {
+    "id":9,
+    "title": "Zoran Šumadinac - Autotune"
+    }
+    {
+    "id":10,
+    "title": "Grea van fleet - Change is gonna come(Cover)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+ID_djelatnika|ime|prezime|br_mob|radno_mjesto|e_mail|dat_zaposlenja
+10KvX|Luka|Kovac|097 998 24 64|Pool|kovac.luka01@yahoo.com|2015-01-20
+3fpI3|Goran|Pavlov|092 264 29 90|Recepcija|gpavlov007@live.com|2014-01-23
+3GJop|Tea|Lovrak|092 345 09 11|Wellness & Spa|tlovrak88@gmail.com|2015-01-21
+9rusn|Kristina|Kralj|099 445 87 01|Održavanje soba|kristinakraljica@hotmail.com|2015-01-20
+gt56A|Ivo|Ivic|091 546 89 89|Održavanje soba|ivoivic@icloud.com|2015-05-19
+ozpJr|Marijana|Mašic|097 404 22 76|Održavanje soba|mmasic88@gmail.com|2015-01-20
+wZdOh|Ivana|Palic|091 557 02 09|Održavanje soba|palicivana90@yahoo.com|2014-01-23
+X2Mov|Josip|Galic|091 834 88 32|Recepcija|galicjosippp@gmail.com|2014-01-23
+xAGTe|Marina|Kralj|092 234 11 92|Recepcija|mkralj1@gmail.com|2015-01-20
+xEo19|Ana|Klaric|097 116 72 94|Wellness & Spa|klaricanna0@yahoo.com|2015-01-22

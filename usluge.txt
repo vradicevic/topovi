@@ -1,0 +1,10 @@
+ID_usluge|naziv|opis|cijena
+AL |All inclusive|Ukljuèeni svi sadržaji koje hotel nudi|20.00
+BB |Bed & Breakfast|Noæenje s doruèkom|3.00
+FB |Full Board|Pansion - doruèak, ruèak i veèera|8.00
+FIT|Fitness|Korištenje usluga fitness centra tijekom boravka u hotelu|12.00
+HB |Half Board|Polupansion|5.00
+PL |Pomoæni ležaj|Dodatni manji ležaj u sobi|5.00
+POL|Bazen|Korištenje bazena tijekom boravka u hotelu|10.00
+SAU|Sauna|Korištenje saune tijekom boravka u hotela|10.00
+SPA|Wellness & Spa|Korištenje usluga Wellness & Spa tijekom boravka u hotelu|12.00

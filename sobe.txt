@@ -1,0 +1,17 @@
+br_sobe|tip_sobe|br_kreveta|raspolozivost|cijena|ID_djelatnika|br_gostiju
+101|Standard|1|1|20.00|9rusn|0
+102|Standard|2|1|15.00|9rusn|0
+103|Standard|3|1|10.00|9rusn|0
+104|Family|4|1|10.00|9rusn|0
+201|Standard|1|1|20.00|gt56A|0
+202|Standard|2|1|15.00|gt56A|0
+203|Standard|3|1|10.00|gt56A|0
+204|Family|4|1|10.00|gt56A|0
+301|APP|1|1|30.00|wZdOh|0
+302|APP|2|1|20.00|wZdOh|0
+303|APP|3|1|15.00|wZdOh|0
+304|APP|4|1|15.00|wZdOh|0
+401|Suite|1|1|40.00|ozpJr|0
+402|Suite|2|1|30.00|ozpJr|0
+403|Suite|3|1|25.00|ozpJr|0
+404|Suite|4|1|20.00|ozpJr|0
